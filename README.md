@@ -53,9 +53,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ReneNathan/ReneNathan/output/snake.svg" alt="Snake animation" />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNobDk5aXdyazk2bTdhNHc5ZGhlZ2Nxb2swMTJlMGlqNmpuYjNtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
 
@@ -63,12 +61,6 @@
   <a href="https://open.spotify.com/user/22oswv56iwxzwu47zc6jz7u5a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22oswv56iwxzwu47zc6jz7u5a&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/8kb8y3"  />
 </div>
 
 ###
