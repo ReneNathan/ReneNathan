@@ -8,7 +8,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Tecnologias+que+uso+diariamente;Aprendendo+algo+novo+diariamente;Vamos+colaborar%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&lines=Technologies+I+use+daily;Learning+something+new+every+day;Let's+collaborate%21" alt="Typing SVG" />
 </div>
 
 ###
