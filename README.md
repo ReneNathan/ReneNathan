@@ -1,9 +1,9 @@
 <h1 align="center"> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Olá, eu sou Rene Nathan 👨💻
+  Hi, i'am Rene Nathan 👨💻
 </h1>
 
-<h3 align="center" style="color: #FF5733">🚀 Desenvolvedor Front-end | Entusiasta de Tecnologia | Brasileiro 🚀</h3>
+<h3 align="center" style="color: #FF5733">🚀 Front-end developer | Technology Enthusiast | Brazilian 🚀</h3>
 
 ###
 
